@@ -18,6 +18,7 @@
     "@vue/tsconfig": "^0.7.0",
     "typescript": "~5.8.3",
     "vite": "^7.0.0",
+    "vite-plugin-singlefile": "^2.3.0",
     "vue-tsc": "^2.2.10"
   }
 }
