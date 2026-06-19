@@ -914,6 +914,20 @@
         ]
       },
       {
+        "code": 1080,
+        "name": "默剧艺人",
+        "keys": [
+          {
+            "op": 1080,
+            "name": "切换剧目"
+          },
+          {
+            "op": 1083,
+            "name": "道具雨伞弹出"
+          }
+        ]
+      },
+      {
         "code": 445,
         "name": "幸运儿",
         "keys": [
@@ -1424,6 +1438,160 @@
             "name": "口腔镜3"
           }
         ]
+      }
+    ]
+  },
+  "cc": {
+    "general": [
+      {
+        "op": "Tactical",
+        "name": "武器攻击"
+      },
+      {
+        "op": "TacticalSpecial",
+        "name": "武器技能"
+      },
+      {
+        "op": "CareerSkill",
+        "name": "职业技能"
+      },
+      {
+        "op": "ChatSpeak",
+        "name": "听筒"
+      },
+      {
+        "op": "ChatVoice",
+        "name": "麦克风"
+      },
+      {
+        "op": "Jump",
+        "name": "跳跃"
+      },
+      {
+        "op": "Sprint",
+        "name": "奔跑"
+      },
+      {
+        "op": "Crouch",
+        "name": "蹲下"
+      },
+      {
+        "op": "Interact",
+        "name": "交互/拾取道具"
+      },
+      {
+        "op": "GoldRushBag",
+        "name": "打开背包"
+      },
+      {
+        "op": "GoldRushBuyProp",
+        "name": "购买道具"
+      },
+      {
+        "op": "GoldRushChangeChar",
+        "name": "切换角色"
+      },
+      {
+        "op": "GoldRushEvacuate",
+        "name": "终止探索"
+      },
+      {
+        "op": "GoldRushMap",
+        "name": "打开故事地图"
+      },
+      {
+        "op": "GoldRushMark",
+        "name": "标记"
+      },
+      {
+        "op": "GoldRushPCQuickChat",
+        "name": "快捷发言"
+      },
+      {
+        "op": "GoldRushPickUp",
+        "name": "拾取单个"
+      },
+      {
+        "op": "GoldRushPickUpAll",
+        "name": "拾取全部"
+      },
+      {
+        "op": "GoldRushScan",
+        "name": "扫描"
+      },
+      {
+        "op": "GoldRushSelectItem1",
+        "name": "使用道具栏位1"
+      },
+      {
+        "op": "GoldRushSelectItem2",
+        "name": "使用道具栏位2"
+      },
+      {
+        "op": "GoldRushSelectItem3",
+        "name": "使用道具栏位3"
+      },
+      {
+        "op": "GoldRushSelectItem4",
+        "name": "使用道具栏位4"
+      },
+      {
+        "op": "GoldRushSwapExplore",
+        "name": "照明"
+      },
+      {
+        "op": "GoldRushUnfoldPickUp",
+        "name": "展开拾取列表"
+      },
+      {
+        "op": "GoldRushUsePetBag",
+        "name": "赛季随从"
+      },
+      {
+        "op": "GoldRushHealTeammate",
+        "name": "治疗队友"
+      }
+    ], 
+    "survivor": [
+      {
+        "op": "GoldRushRecall",
+        "name": "召回队友"
+      }
+    ],
+    "hunter": [
+      {
+        "op": "GoldRushButcherWeapon",
+        "name": "监管者攻击"
+      }
+    ],
+    "unknown": [
+      {
+        "op": "SpecificAction",
+        "name": "SpecificAction"
+      },
+      {
+        "op": "Doodle",
+        "name": "Doodle"
+      },
+      {
+        "op": "QuickSpeech",
+        "name": "QuickSpeech"
+      },
+      {
+        "op": "ToggleCursorLock",
+        "name": "GoldRushQteCancel"
+      },
+      {
+        "op": "GoldRushQteCancel",
+        "name": "GoldRushQteCancel"
+      },
+      {
+        "op": "MotionChangePage",
+        "name": "MotionChangePage"
+      },
+      {
+        "op": "CareerSkill2",
+        "name": "CareerSkill2"
       }
     ]
   },
